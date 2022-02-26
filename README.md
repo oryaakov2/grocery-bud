@@ -1,2 +1,2 @@
 # grocery-bud
-[Demo](grocery-bud-oy.netlify.app)
+[Demo](https://grocery-bud-oy.netlify.app)
